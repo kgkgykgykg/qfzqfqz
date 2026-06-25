@@ -1,6 +1,0 @@
-{
-  "name": "EcomBoost.org",
-  "description": "An advanced portfolio of AI-powered copy converters and precise growth projection calculators designed for high-volume e-commerce stores.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
